@@ -32,7 +32,7 @@ Tangible outcome:
   <!doctype html>
   <html>
     <head>
-      <title>Hello, World!</title>
+      <title>My Name</title>
     </head>
     <body>
       <p>Hello, World!</p>
@@ -45,9 +45,8 @@ Tangible outcome:
    Notice how every element has a corresponding closing element. Closing
    elements have a `/` before the element's name. Elements are also sometimes
    known as tags.
-8. The `html` element encapsulates the rest of the elements in our web page.
-   Everything in the `head` element is not on the web page and is for the
-   browser to read. Everything in the `body` element is on the webpage. The `p`
+8. The `html` element encapsulates the elements in our web page.
+   Everything in the `head` element is is for only the browser to read, so none of it shows up on the webpage. Everything in the `body` element is on the webpage. The `p`
    element stands for paragraph and indicates a paragraph on the page.
 8. We can use the `a` tag to add a link to our website. Put the following under
    the `p` element and reload the page.
@@ -60,8 +59,18 @@ Tangible outcome:
    attribute. All attributes have corresponding values. In this case, `href`'s
    corresponding value is `https://google.com`. `href`'s corresponding value
    is where the link leads to.
-10. `img` tag example. Use an exciting image, like a meme or doge.
-11. Ordered and unordered lists.
-12. Change the background color and some other stuff with CSS.
-13. Add a button that increments a wow number on the page using Javascript.
-14. Save the site and host it on Neocities.
+10. Now add an image. We can display an image using an `img` element, and tell the browser what image we want with a `src` attribute. This looks like `<img src="https://raw.github.com/zachlatta/snapshibe/master/public/img/doge.jpg">`
+11. Let's combine what we learned about links (`a`) and images (`img`) to make a clickable image that links to another site. Make the image you want to use (`<img src="https://google.com">`). Now encapsulate the `img` tag with a link 
+```
+	<a href="https://google.com">
+		<img src="https://google.com">
+	</a>
+```
+
+12. Ordered and unordered lists.
+13. Change the background color and some other stuff with CSS.
+14. Add a button that increments a wow number on the page using Javascript.
+15. Save the site and host it on Neocities.
+
+
+https://raw.github.com/zachlatta/snapshibe/master/public/img/doge.jpg
