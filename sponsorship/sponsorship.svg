@@ -73,17 +73,6 @@
          offset="1"
          id="stop5287-3" />
     </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath5356">
-      <rect
-         style="fill:none"
-         id="rect5358"
-         width="744.09448"
-         height="300.80869"
-         x="0"
-         y="-1.7382812e-05" />
-    </clipPath>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5362"
@@ -93,8 +82,19 @@
        fx="157.51962"
        fy="49.057964"
        r="372.04724"
-       gradientTransform="matrix(1.0280952,0,0,0.41590737,7.0800779e-7,154.50156)"
+       gradientTransform="matrix(1.0280952,0,0,0.42333331,1.2036133e-5,156.1467)"
        gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3083">
+      <rect
+         style="fill:none"
+         id="rect3085"
+         width="744.09454"
+         height="306.39185"
+         x="-6.8865978e-07"
+         y="-1.7508106e-05" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -103,11 +103,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="125.05707"
-     inkscape:cy="744.41957"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="435.96274"
+     inkscape:cy="754.01857"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1916"
      inkscape:window-height="1041"
@@ -162,6 +162,14 @@
        orientation="0,1"
        position="387.14286,45"
        id="guide5396" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-0.546875,675"
+       id="guide3068" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-12.020815,652.5"
+       id="guide3070" />
   </sodipodi:namedview>
   <metadata
      id="metadata3098">
@@ -175,6 +183,28 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:label="body"
+     id="g3030"
+     inkscape:groupmode="layer">
+    <g
+       inkscape:groupmode="layer"
+       id="layer1"
+       inkscape:label="body_header">
+      <flowRoot
+         transform="translate(0,-5.9974097)"
+         xml:space="preserve"
+         id="flowRoot5509-6"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"><flowRegion
+           id="flowRegion5511-6"><rect
+             id="rect5513-7"
+             width="675"
+             height="116.15735"
+             x="45"
+             y="343.50238" /></flowRegion><flowPara
+           id="flowPara5515-9"
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Montserrat;-inkscape-font-specification:Montserrat">hackEDU is a nonprofit intiative that helps high school students start and lead programming clubs at their schools. This semester, hackEDU will take place in 25 schools around the US, attracting hundreds of students.</flowPara></flowRoot>    </g>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -193,20 +223,28 @@
          height="508.21613"
          width="744.09448"
          style="fill:none"
-         clip-path="url(#clipPath5356)"
+         clip-path="url(#clipPath3083)"
          transform="matrix(1.0280952,0,0,1.0280952,7.0800779e-7,62.362018)" />
+      <rect
+         y="62.362"
+         x="7.080078e-07"
+         height="309.25998"
+         width="764.99994"
+         id="rect5358"
+         style="fill:none" />
     </g>
     <g
        inkscape:groupmode="layer"
        id="layer5"
        inkscape:label="img_gradient"
-       style="display:inline">
+       style="display:inline"
+       sodipodi:insensitive="true">
       <rect
          style="fill:url(#radialGradient5368);fill-opacity:1"
          id="rect3829"
          width="765"
-         height="309.4744"
-         x="-1.1328125e-05"
+         height="315"
+         x="5.4060109e-14"
          y="62.362003" />
     </g>
     <g
