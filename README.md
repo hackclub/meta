@@ -61,8 +61,7 @@ This is about the internal parts of hackEDU and include:
 
 ##### Why do we need another learn to code organization?
 
-The answer is that we don't. We need to create a community around hacking so
-the duplication doesn't happen. We're not a learn to code organization. We're
+The answer is that we don't. We're not a learn to code organization. We're
 not building another Codecademy. We're leveraging existing curriculum and our
 primary focus is building families and communities.
 
