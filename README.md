@@ -38,9 +38,9 @@ Our board has the following columns:
   is the default location for new issues.
 - **Ideas** - Issues that we're not actively working on as a team, but may
   decide to prioritize in the future.
-- **Backlog** - Issues that we're actively planning on addressing, but aren't
-  currently high priority.
-- **Todo** - Issues that are in our immediate team queue.
+- **Next Week** - Issues to do next week.
+- **Todo** - Issues that are in our immediate team queue and are planned for the
+  week.
 - **In Progress** - Issues that are currently being worked on by a member of the
   team. When a team member begins working on an issue, they should drag it into
   _In Progress_.
