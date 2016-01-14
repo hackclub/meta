@@ -10,7 +10,7 @@ to stay consistent.
 
 **Protocol** Omit the protocol for embedded resources.
 
-**Indentation** HTML should use 2 spaces per level of indentation.
+**Indentation** HTML should use 4 spaces per level of indentation.
 
 **Capitalization** Use only lowercase.
 
