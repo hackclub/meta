@@ -8,9 +8,10 @@ Links:
 
 - [GitHub Teams](github_teams.md) - How we manage our GitHub teams
 - Protocols
-  - [Hiring](hiring_protocol.md)
-  - [Club leader onboarding](club_leader_onboarding_protocol.md)
-  - [Staff onboarding](staff_onboarding_protocol.md)
+  - [Hiring](protocols/hiring.md)
+  - [Club leader onboarding](protocols/club_leader_onboarding.md)
+  - [Staff onboarding](protocols/staff_onboarding.md)
+  - [Events](protocols/event.md)
 - Styleguides
   - [Markdown](styleguides/markdown.md)
   - [English](styleguides/english.md)
@@ -21,12 +22,11 @@ Links:
   - [Fundraising](fundraising)
   - [Ideas](ideas)
   - [Labs](labs)
-  - [Logos](logos)
+  - [Logos](resources/logos)
   - [Meeting notes](meetings)
   - [Positions](positions)
   - [Scripts](scripts)
   - [Updates](updates)
-  - [The Hack Series](the_hack_series)
 
 ## Vision and Mission
 
