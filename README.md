@@ -224,6 +224,24 @@ Members have now "finished" our curriculum! This will have been after about 4 mo
 - Any sort of side projects they may have started working on, and maybe want to get other involved in
 - Open-source contributions? That'd be cool, I guess
 
+## Labs program
+
+The Labs program will follow this format:
+
+1. Workshops
+   - These are based on the workshops from Hack Camp
+   - Labs program workshops can be found in the
+     (playbook)[https://github.com/hackedu/hackedu/tree/master/playbook/workshops]
+2. Case Studies
+   - To collect data from each meeting without core hackEDU team members being
+     there, each club meeting will have a case study
+   - Each case study consists of 2 files:
+     1. `planning.md`
+     2. `recap.md` ex.
+        https://github.com/hackedu/hackedu/blob/e1b9dd8e6c35d5dcc799340794d46439e6e89f9b/case_studies/cherry_hill_high_school_east/02_first_meeting/recap.md
+   - Case studies can be found in the
+     (playbook)[https://github.com/hackedu/hackedu/tree/master/case_studies]
+
 ## Contact
 
 If you'd like to reach all of us, please send an email to team@hackclub.com :-).
