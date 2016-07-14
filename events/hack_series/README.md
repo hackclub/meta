@@ -29,16 +29,3 @@ Session 2 will run Saturday, July 16, 2016 from 3:00 PM to 6:00 PM.
 | 4:30PM | Customizing the workshop |
 | 5:45PM | Demos                    |
 | 6:00PM | Hack Cheer               |
-
-### Session 3
-
-Session 3 will run Sunday, July 17, 2016 from 10:00 AM to 1:00 PM.
-
-| Time    | Activity                 |
-| ----    | ------------------------ |
-| 10:00AM | Hacker Arrival           |
-| 10:10AM | Workshop                 |
-| 11:00AM | Break                    |
-| 11:30AM | Customizing the workshop |
-| 12:45PM | Demos                    |
-| 1:00PM  | Hack Cheer               |
