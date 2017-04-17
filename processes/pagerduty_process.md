@@ -14,3 +14,7 @@ Join the team by asking a staff member with a PagerDuty account to invite you to
 ## On-Call
 
 When on-call, it is your responsibility to resolve every issue that occurs in PagerDuty. Resolving an issue doesn't only mean closing it -- you can also mark it as unimportant, or bring in someone with more domain-specific knowledge to work on the fix. "Resolving" an issue only means the issue is marked as "ignore" or "resolved" in Sentry with a comment explaining why the issue was marked that way.
+
+### Weekends
+
+Issues during the weekend that don't cause observable consequences to users or data loss can be put off until the next on-call time of the assigned person during the week.
